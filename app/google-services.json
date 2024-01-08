@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307294778493",
+    "project_id": "moneykeeper-4f286",
+    "storage_bucket": "moneykeeper-4f286.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307294778493:android:aba0858be95b018b186d14",
+        "android_client_info": {
+          "package_name": "com.adeveloper.moneykeeper.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "***"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
